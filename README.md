@@ -1,2 +1,2 @@
-# Introdu-o-JavaScript
+# Introducao-JavaScript
 Repositório criado para estudos de linguagem de programação JavaScript
